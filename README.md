@@ -1,7 +1,6 @@
 # Amanda Alves Ferreira
 
 ![Status](https://img.shields.io/badge/status-em%20formação-yellow)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-amanda--alves--ferreira-blue?logo=linkedin)
 ![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
 ![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
 
@@ -11,13 +10,10 @@
 
 ## 📚 Formação e Estudos em andamento
 
-- 🎓 **MBA em Qualidade, Gestão e Engenharia de Processos** (em andamento)
-- 🎓 Futuramente: **Segunda graduação em Banco de Dados**
-- 💻 Trilha de **SQL** pela [Alura](https://www.alura.com.br/)
-- 📊 Trilha de **Excel para Dados** pela Alura
-- 📈 Próximos passos:
-  - Estudo de **Power BI** e **Tableau**
-  - Início em **Python para dados** (pandas, visualização, ETL)
+- 🎓 MBA em Qualidade, Gestão e Engenharia de Processos (em andamento)
+- 🎓 Futuramente: Segunda graduação em Banco de Dados
+- 💻 Estudando **SQL** e **Excel para Dados**
+- 📈 Próximos passos: **Power BI**, **Tableau** e **Python para Dados**
 
 ---
 
