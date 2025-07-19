@@ -10,8 +10,9 @@
 
 ## 📚 Formação e Estudos em andamento
 
-- 🎓 MBA em Qualidade, Gestão e Engenharia de Processos (em andamento)
-- 🎓 Futuramente: Segunda graduação em Banco de Dados
+🎓 Formada em Marketing, atualmente em transição de carreira para Dados
+🎓 MBA em Qualidade, Gestão e Engenharia de Processos (em andamento)
+🎓 Futuramente: Segunda graduação em Banco de Dados
 - 💻 Estudando **SQL** e **Excel para Dados**
 - 📈 Próximos passos: **Power BI**, **Tableau** e **Python para Dados**
 
