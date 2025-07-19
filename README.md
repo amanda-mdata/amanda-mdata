@@ -1,51 +1,57 @@
-# Olá, eu sou a Amanda! 👋
+# Amanda Alves Ferreira
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ferreiraalvesamanda">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img src="https://img.shields.io/github/followers/amanda-mdata?label=Seguidores&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/Status-Estudando%20Dados-yellow" alt="Status: Estudando Dados">
-  <img src="https://img.shields.io/badge/SQL-em%20aprendizado-blue?logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power%20BI-em%20prática-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-Avançado-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Python-básico-3776AB?logo=python&logoColor=white" alt="Python">
-</p>
+![Status](https://img.shields.io/badge/status-em%20formação-yellow)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-amanda--alves--ferreira-blue?logo=linkedin)
+![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
+![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
+
+🎯 **Objetivo:** Transição de carreira para a área de Dados com foco em **Data Quality**, **Governança de Dados** e **Master Data**, unindo formação sólida com aplicação prática.
 
 ---
 
-🎯 Estou em transição de carreira para a área de dados, com foco especial em **qualidade da informação** e **gestão de dados (Master Data)**. Tenho estudado com dedicação ferramentas e conceitos essenciais para atuar com dados de forma estratégica e confiável.
+## 📚 Formação e Estudos em andamento
+
+- 🎓 **MBA em Qualidade, Gestão e Engenharia de Processos** (em andamento)
+- 🎓 Futuramente: **Segunda graduação em Banco de Dados**
+- 💻 Trilha de **SQL** pela [Alura](https://www.alura.com.br/)
+- 📊 Trilha de **Excel para Dados** pela Alura
+- 📈 Próximos passos:
+  - Estudo de **Power BI** e **Tableau**
+  - Início em **Python para dados** (pandas, visualização, ETL)
 
 ---
 
-## 📚 Atualmente estudando:
+## 🛠️ Habilidades em desenvolvimento
 
-- SQL (consultas, joins, funções agregadas, subqueries)  
-- Power BI (dashboards, DAX e visualizações)  
-- Excel avançado (análises, gráficos e funções)  
-- Fundamentos de Python para análise de dados  
-- Conceitos de Data Quality, Governança e Master Data  
-
----
-
-## 🛠️ Projetos em andamento:
-
-- 🔍 **[Data Quality com SQL](#)** — Projeto com foco em validação e limpeza de dados fictícios  
-- 📊 **[Dashboard Power BI](#)** — Visualização interativa de métricas simuladas (em construção)  
-- 📁 **[Mini ETL com Python](#)** — Script básico para extração, transformação e carga de dados CSV  
-
-*(Links serão atualizados conforme os repositórios forem publicados ou finalizados)*
+- 📊 Excel para análise (dashboards, tabelas dinâmicas, funções avançadas)
+- 🧾 SQL (consultas, joins, filtros, manipulação e estruturação de dados)
+- 🔄 Fundamentos de **qualidade de dados** e padronização de informações
+- 🧠 Experiência prática com **Salesforce** e **Metabase**
 
 ---
 
-## 📫 Vamos conversar?
+## 🚀 Projetos em breve
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ferreiraalvesamanda)  
-- ✉️ amdfalves@gmail.com
+- Análises e dashboards com Excel
+- Consultas SQL com bases simuladas
+- Dashboards interativos no Power BI
+- Limpeza e organização de dados com Python
 
 ---
 
-## ✨ Curiosidade sobre mim
+## 💡 Áreas de interesse
 
-> _“Hit me hard and soft”_ — uma frase que me inspira a seguir firme, mesmo quando o desafio é intenso e sutil ao mesmo tempo.  
-Levo essa energia comigo na vida, nos dados... **E também porque sou fã da Billie Eilish.** 🎧
+Data Quality • Governança de Dados • Master Data • Visualização • Automação • ETL • Processos
+
+---
+
+## 🤝 Vamos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ferreiraalvesamanda)
+- 🌐 [GitHub](https://github.com/amanda-mdata)
+- 📬 amdfalves@gmail.com
+
+---
+
+✨ *"Aprendizado constante, com foco em transformar dados em decisões confiáveis."*
+
