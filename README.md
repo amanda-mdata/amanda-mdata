@@ -1,4 +1,4 @@
-# Amanda Alves Ferreira
+# Amanda Alves
 
 ![Status](https://img.shields.io/badge/status-em%20formação-yellow)
 ![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
@@ -10,10 +10,10 @@
 
 ## 📚 Formação e Estudos em andamento
 
-🎓 Formada em Marketing, atualmente em transição de carreira para Dados
-🎓 MBA em Qualidade, Gestão e Engenharia de Processos (em andamento)
-🎓 Futuramente: Segunda graduação em Banco de Dados
-- 💻 Estudando **SQL** e **Excel para Dados**
+- 🎓 Formada em **Marketing**, atualmente em transição de carreira para Dados  
+- 🎓 **MBA em Qualidade, Gestão e Engenharia de Processos** (em andamento)  
+- 🎓 Futuramente: Segunda graduação em **Banco de Dados**  
+- 💻 Estudando **SQL** e **Excel para Dados**  
 - 📈 Próximos passos: **Power BI**, **Tableau** e **Python para Dados**
 
 ---
@@ -29,16 +29,16 @@
 
 ## 🚀 Projetos em breve
 
-- Análises e dashboards com Excel
-- Consultas SQL com bases simuladas
-- Dashboards interativos no Power BI
-- Limpeza e organização de dados com Python
+- 📊 Análises e dashboards com Excel
+- 🧾 Consultas SQL com bases simuladas
+- 📈 Dashboards interativos no Power BI
+- 🧹 Limpeza e organização de dados com Python
 
 ---
 
 ## 💡 Áreas de interesse
 
-Data Quality • Governança de Dados • Master Data • Visualização • Automação • ETL • Processos
+**Data Quality • Governança de Dados • Master Data • Visualização • Automação • ETL • Processos**
 
 ---
 
@@ -50,5 +50,7 @@ Data Quality • Governança de Dados • Master Data • Visualização • Aut
 
 ---
 
-✨ *"Aprendizado constante, com foco em transformar dados em decisões confiáveis."*
+*Comprometida com a qualidade da informação e com o aprendizado contínuo.*
+
+
 
