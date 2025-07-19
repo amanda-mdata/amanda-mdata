@@ -1,4 +1,4 @@
-# Amanda Alves
+# 👋 Olá! Eu sou a Amanda
 
 🔍 Detalhista por natureza, encontrei nos dados a combinação ideal entre lógica e propósito. Em transição de carreira, sigo construindo um caminho sólido em Data Quality.
 
