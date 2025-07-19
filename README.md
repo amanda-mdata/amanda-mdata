@@ -14,8 +14,7 @@
 
 ---
 
-🎯 Estou em transição de carreira para a área de dados, com foco especial em **qualidade da informação** e **gestão de dados (Master Data)**.  
-Tenho estudado com dedicação ferramentas e conceitos essenciais para atuar com dados de forma estratégica e confiável.
+🎯 Estou em transição de carreira para a área de dados, com foco especial em **qualidade da informação** e **gestão de dados (Master Data)**. Tenho estudado com dedicação ferramentas e conceitos essenciais para atuar com dados de forma estratégica e confiável.
 
 ---
 
