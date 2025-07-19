@@ -2,6 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-em%20formação-yellow)
 ![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
+![PUCRS](https://img.shields.io/badge/Estudante-PUCRS-darkblue)
 ![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
 
 🎯 **Objetivo:** Atuar com **Data Quality**, com foco na construção de dados confiáveis por meio de validações, padronizações e processos que garantam a integridade das informações nas organizações.
