@@ -1,16 +1,21 @@
-## Hi there 👋
+# Amanda Alves
 
-<!--
-**amanda-mdata/amanda-mdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Detalhista por natureza, encontrei nos dados a combinação ideal entre lógica e propósito. Em transição de carreira, sigo construindo um caminho sólido em Data Quality.
 
-Here are some ideas to get you started:
+🎓 MBA em **Qualidade, Gestão e Engenharia de Processos** pela PUCRS.  
+📚 Estudando com foco em **Data Quality** e **Governança de Dados**.  
+🔍 Buscando oportunidades de estágio ou posições afirmativas (PCD/TEA) na área de Dados.  
+💻 Atualmente faço cursos na **Alura**, com trilhas em **Excel**, **SQL**, **Power BI** e **Python**.  
+🎓 Em 2026, iniciarei uma segunda graduação em **Tecnologia em Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estudando com foco em:
+- Data Quality
+- Governança de Dados
+- Business Intelligence
+
+## 🚀 Em andamento
+- Finalizando trilhas de Excel e SQL na Alura
+- Início dos estudos em Power BI com foco prático
+
+## 🌐 Contato
+- [LinkedIn](https://www.linkedin.com/in/ferreiraalvesamanda/)
