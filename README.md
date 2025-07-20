@@ -5,7 +5,7 @@
 ![PUCRS](https://img.shields.io/badge/Estudante-PUCRS-darkblue)
 ![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
 
-🎯 **Objetivo:** Atuar com **Data Quality**, com foco na construção de dados confiáveis por meio de validações, padronizações e processos que garantam a integridade das informações nas organizações.
+🎯 **Objetivo:** Transição de carreira para a área de Dados com foco em **Master Data**, **Data Quality**, **Qualidade da Informação** e **Governança de Dados**, unindo formação sólida com aplicação prática.
 
 ---
 
