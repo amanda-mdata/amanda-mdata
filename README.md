@@ -40,7 +40,7 @@
 
 ## 💡 Áreas de interesse
 
-**Master Data • Data Quality • Regras de Validação • Data Governance • ETL • Metadata • Automação de Qualidade • Padronização de Dados**
+**Master Data • Data Quality • Regras de Validação • Data Governance • ETL • Metadata • Padronização de Dados**
 
 ---
 
