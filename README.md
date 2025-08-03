@@ -5,8 +5,7 @@
 ![PUCRS](https://img.shields.io/badge/Estudante-PUCRS-darkblue)
 ![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
 
-🎯 **Cargo atual:** Analista de Master Data com foco em **Qualidade da Informação**, **Governança de Dados** e **processos de padronização e confiabilidade de dados**.  
-Atuo na manutenção, validação e estruturação de dados mestres, unindo conhecimento técnico e visão de processos.
+🎯 **Cargo atual:** Analista de Master Data com foco em **Qualidade da Informação**, **Governança de Dados** e **processos de padronização e confiabilidade de dados**. Atuo na manutenção, validação e estruturação de dados mestres, unindo conhecimento técnico e visão de processos.
 
 ---
 
