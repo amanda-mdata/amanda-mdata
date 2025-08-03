@@ -1,40 +1,41 @@
 # Olá, sou a Amanda! 👋
 
-![Status](https://img.shields.io/badge/status-em%20formação-yellow)
+![Status](https://img.shields.io/badge/status-em%20atividade-green)
 ![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
 ![PUCRS](https://img.shields.io/badge/Estudante-PUCRS-darkblue)
 ![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
 
-🎯 **Objetivo:** Transição de carreira para a área de Dados com foco em **Master Data**, **Data Quality**, **Qualidade da Informação** e **Governança de Dados**, unindo formação sólida com aplicação prática.
+🎯 **Cargo atual:** Analista de Master Data com foco em **Qualidade da Informação**, **Governança de Dados** e **processos de padronização e confiabilidade de dados**.  
+Atuo na manutenção, validação e estruturação de dados mestres, unindo conhecimento técnico e visão de processos.
 
 ---
 
 ## 📚 Formação e Estudos em andamento
 
-- 🎓 Formada em **Marketing**, atualmente em transição de carreira para Dados
+- 🎓 Formada em **Marketing**
 - 🎓 MBA em **Qualidade, Gestão e Engenharia de Processos** (em andamento)
 - 🎓 Futuramente: Segunda graduação em **Banco de Dados**
-- 💻 Estudando **SQL (PostgreSQL)**, **Regras de Qualidade**, **ETL** e **Governança de Dados**
-- 📖 Complementarmente: conceitos de metadata, automação com Python e ferramentas de catálogo de dados
+- 💻 Estudando **SQL (PostgreSQL)**, **ETL**, **Data Quality** e **Governança de Dados**
+- 📖 Complementarmente: metadata, automação com Python e ferramentas de catálogo de dados
 
 ---
 
 ## 🛠️ Habilidades em desenvolvimento
 
-- 🧾 **SQL** para criação de regras de validação, verificação de integridade e consistência de dados
-- 🔍 Aplicação de **regras de qualidade**: integridade referencial, unicidade, formatação, completude
-- ⚙️ Conhecimentos iniciais em **ETL** com foco em fluxos de entrada, transformação e validação
-- 🧠 Conceitos essenciais de **Data Governance** voltados ao ciclo de vida e confiabilidade da informação
-- 🗂️ Noções de **metadados** e uso de ferramentas como Collibra, Purview e documentação de regras
+- 🧾 **SQL** aplicado à validação, padronização e análise de integridade de dados
+- 🔍 **Regras de qualidade**: unicidade, integridade referencial, completude e formatação
+- ⚙️ Conhecimentos em **ETL** voltados à qualidade e movimentação de dados confiáveis
+- 🧠 Princípios de **Data Governance**, ciclo de vida da informação e stewardship
+- 🗂️ Fundamentos de **metadata**, catálogo de dados e documentação técnica
 
 ---
 
 ## 🚀 Projetos em breve
 
-- Regras de validação em SQL aplicadas a dados simulados
-- Modelagem de relatórios de qualidade e rastreabilidade de falhas
-- Simulação de processos de verificação e limpeza automatizada
-- Estruturação de documentação técnica de regras e padrões de qualidade
+- Scripts SQL para validação e consistência de dados
+- Simulações de processos de limpeza e rastreabilidade de dados
+- Fluxos básicos de ETL com foco em qualidade da informação
+- Estruturação de regras de negócios e documentação para dados mestres
 
 ---
 
@@ -53,3 +54,4 @@
 ---
 
 *Comprometida com a qualidade da informação e com o aprendizado contínuo.*
+
