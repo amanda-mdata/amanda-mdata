@@ -14,7 +14,7 @@
 - 🎓 Formada em **Marketing**
 - 🎓 MBA em **Qualidade, Gestão e Engenharia de Processos** (em andamento)
 - 🎓 Futuramente: Segunda graduação em **Banco de Dados**
-- 💻 Estudando **SQL (PostgreSQL)**, **ETL**, **Data Quality** e **Governança de Dados**
+- 💻 Estudando **SQL (MySQL)**, **ETL**, **Data Quality** e **Governança de Dados**
 - 📖 Complementarmente: metadata, automação com Python e ferramentas de catálogo de dados
 
 ---
