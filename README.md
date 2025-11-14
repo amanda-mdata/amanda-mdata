@@ -1,56 +1,76 @@
-# Olá, sou a Amanda! 👋
+<p align="center">
+  <img src="https://github.com/amanda-mdata/amanda-mdata/raw/main/assets/header.png" alt="Amanda - Master Data & Data Quality" />
+</p>
 
-![Status](https://img.shields.io/badge/status-em%20atividade-green)
-![Alura](https://img.shields.io/badge/Estudante-Alura-0098D1)
-![PUCRS](https://img.shields.io/badge/Estudante-PUCRS-darkblue)
-![GitHub seguidores](https://img.shields.io/github/followers/amanda-mdata?style=social)
+<h1 align="center">👋 Hey! Eu sou a Amanda</h1>
 
-🎯 **Cargo atual:** Analista de Master Data com foco em **Qualidade da Informação**, **Governança de Dados** e **processos de padronização e confiabilidade de dados**. Atuo na manutenção, validação e estruturação de dados mestres, unindo conhecimento técnico e visão de processos.
-
----
-
-## 📚 Formação e Estudos em andamento
-
-- 🎓 Formada em **Marketing**
-- 🎓 MBA em **Qualidade, Gestão e Engenharia de Processos** (em andamento)
-- 🎓 Futuramente: Segunda graduação em **Banco de Dados**
-- 💻 Estudando **SQL (MySQL)**, **ETL**, **Data Quality** e **Governança de Dados**
-- 📖 Complementarmente: metadata, automação com Python e ferramentas de catálogo de dados
+<p align="center">
+  💾 <strong>Analista de Master Data</strong> focada em deixar dados mais limpos, confiáveis e prontos para uso.<br/>
+  🚦 Valido regras, padronizo cadastros, encontro inconsistências e ajudo times a trabalharem com dados de verdade — não com <em>gambiarras</em>.
+</p>
 
 ---
 
-## 🛠️ Habilidades em desenvolvimento
+## ✨ Sobre mim
 
-- 🧾 **SQL** aplicado à validação, padronização e análise de integridade de dados
-- 🔍 **Regras de qualidade**: unicidade, integridade referencial, completude e formatação
-- ⚙️ Conhecimentos em **ETL** voltados à qualidade e movimentação de dados confiáveis
-- 🧠 Princípios de **Data Governance**, ciclo de vida da informação e stewardship
-- 🗂️ Fundamentos de **metadata**, catálogo de dados e documentação técnica
-
----
-
-## 🚀 Projetos em breve
-
-- Scripts SQL para validação e consistência de dados
-- Simulações de processos de limpeza e rastreabilidade de dados
-- Fluxos básicos de ETL com foco em qualidade da informação
-- Estruturação de regras de negócios e documentação para dados mestres
+🌟 Apaixonada por **organizar, padronizar e dar sentido aos dados**.  
+💬 Curiosa por natureza, gosto de entender o “porquê” dos processos e o impacto dos dados no negócio.  
+🎯 Trabalho sempre com foco em clareza, consistência, documentação e qualidade.  
+📚 No tempo livre, estou estudando **SQL, ETL, Governança de Dados e Data Quality**.  
+🎸 Fora do mundo dos dados: amo ler, tocar baixo, jogar e maratonar séries.
 
 ---
 
-## 💡 Áreas de interesse
+## 💻 Tech & Skills
 
-**Master Data • Data Quality • Regras de Validação • Data Governance • ETL • Metadata • Padronização de Dados**
+- 🧾 **SQL** — validação, auditoria, limpeza e padronização de dados  
+- 🔍 **Quality Rules** — unicidade, integridade referencial, consistência, completude  
+- 🗂️ **Master Data** — criação, manutenção, enriquecimento e documentação de dados mestres  
+- 🧠 **Governança de Dados** — ciclo de vida do dado, regras de negócio e stewardship  
+- ⚙️ **ETL Basics** — limpeza, transformação e rastreabilidade  
+- 📝 **Metadata & Docs** — descrição de atributos, catálogos, glossários e padrões  
+- 🐍 **Python (iniciante)** — automações simples focadas em qualidade de dados  
+
+---
+
+<p align="center">✨ ··········································· ✨</p>
+
+---
+
+## 📚 Formação
+
+- 🎓 **Tecnóloga em Marketing**  
+- 🎓 **MBA em Qualidade, Gestão e Engenharia de Processos**  
+- 🎓 **Tecnologia em Banco de Dados** (graduação em andamento)
+
+---
+
+## 🚧 Work in Progress (próximos commits)
+
+- 🧪 Scripts SQL para detectar erros silenciosos  
+- 🧼 Mini ETLs focados em qualidade e rastreabilidade  
+- 📚 Documentação clara para dados mestres e processos  
+- 📏 Regras de negócio traduzidas para linguagem dev-friendly
+
+---
+
+## 🧠 Interesses
+
+**Master Data • Data Quality • ETL • Metadata • Governança de Dados • Padronização • Regras de Negócio • Operações**
 
 ---
 
 ## 🤝 Vamos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ferreiraalvesamanda)
-- 🌐 [GitHub](https://github.com/amanda-mdata)
-- 📬 amdfalves@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ferreiraalvesamanda)  
+- 🌐 [GitHub](https://github.com/amanda-mdata)  
+- 📬 **amdfalves@gmail.com**
 
 ---
 
-*Comprometida com a qualidade da informação e com o aprendizado contínuo.*
+<p align="center">
+  💜 <em>Comprometida com dados melhores, processos mais claros e aprendizado contínuo.</em><br/>
+  ⚡ <strong>“Dados limpos, vida tranquila.”</strong>
+</p>
+
 
