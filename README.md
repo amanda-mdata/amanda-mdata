@@ -2,7 +2,7 @@
 
 <p align="center">
   💾 <strong>Analista de Master Data</strong> focada em deixar dados mais limpos, confiáveis e prontos para uso.<br/>
-  🚦 Valido regras, padronizo cadastros, encontro inconsistências e ajudo times a trabalharem com dados de verdade — não com <em>gambiarras</em>.
+  🚦 Valido regras, padronizo cadastros, encontro inconsistências e ajudo times a trabalharem com dados de verdade.
 </p>
 
 ---
