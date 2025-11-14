@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/amanda-mdata/amanda-mdata/raw/main/assets/header.png" alt="Amanda - Master Data & Data Quality" />
-</p>
-
 <h1 align="center">👋 Hey! Eu sou a Amanda</h1>
 
 <p align="center">
